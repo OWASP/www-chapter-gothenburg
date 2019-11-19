@@ -9,9 +9,9 @@ tags: gothenburg
 OWASP Gothenburg 2019
 ---------------------
 *   2019-01-07: Autosec.se + OWASP vol. II Tomas Olovsson and Jonas Magazinius: focused on automotive security.
-*   2019-03-14 Anne Marie Eklund Löwinder - Securing parts of the Internet - DNS extravaganza![video](https://youtu.be/uNm4wjx_uN8)
-*   2019-03-14 Per Thorsheim - DNS Security - DNS extravaganza![video](https://www.youtube.com/watch?v=5VyYkfR3Fp8)
-*   2019-03-14 Per Thorsheim - Password Security - DNS extravaganza![video](https://youtu.be/nK9hc18MFBc)
+*   2019-03-14 Anne Marie Eklund Löwinder - Securing parts of the Internet - DNS extravaganza! [video](https://youtu.be/uNm4wjx_uN8)
+*   2019-03-14 Per Thorsheim - DNS Security - DNS extravaganza! [video](https://www.youtube.com/watch?v=5VyYkfR3Fp8)
+*   2019-03-14 Per Thorsheim - Password Security - DNS extravaganza! [video](https://youtu.be/nK9hc18MFBc)
 
 OWASP Gothenburg 2018
 ---------------------
@@ -45,7 +45,7 @@ OWASP Gothenburg 2016
 *   2016-06-09 Tero Hänninen - Enterprise threat hunting; cheap, fun and effective! [video](https://youtu.be/8T1VdDsrYcc)
 *   2016-06-09 Johanna Abrahamsson - Incident detection for free! [video](https://youtu.be/5R-DisNSccE)
 *   2016-03-22 Lars Andrén - Source Code Analysis of Web Frameworks [video](https://youtu.be/TuqTIw3iauk)
-*   2016-03-22 Lars Andrén - What is static code analysis (SCA)[video](https://youtu.be/GY7MWbdkdas)
+*   2016-03-22 Lars Andrén - What is static code analysis (SCA) [video](https://youtu.be/GY7MWbdkdas)
 
 OWASP Gothenburg 2015
 ---------------------
