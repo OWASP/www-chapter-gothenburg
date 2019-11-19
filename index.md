@@ -1,21 +1,20 @@
 ---
 
 layout: col-sidebar
-title: OWASP gothenburg
-tags: example-tag
+title: OWASP Gothenburg
+tags: gothenburg
 level: 4
 
 region: Europe
 
 ---
+![OWASP Gothenburg Chapter Logo](assets/images/500px-Owaspgbg_brand_logo_web.png)
+The vision for OWASP Gothenburg is to increase interest in and spread knowledge of how to architect and build secure software systems. It is to provide a balanced mix of the latest word in academic security research (cutting edge), established security practices and design principles for direct application (breadth and maturity). The most important elements in the construction of secure applications are design- and development methodologies, OWASP Gothenburg will hence strive to increase the security-mindedness of application developers.
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP Gothenburg brings together a great community of developers, project leaders and security professionals by offering interesting presentations and demonstrations on a wide range of security-related topics. Community hacks, social get-togethers and local as well as international speakers make us a platform and forum for anyone interested to meet like-minded people, exchange ideas and discuss the latest developments and news in security.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Everyone is free to participate in, and attend any of our meetings!
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+If you are interested in helping out or if you have a suggestion on e.g. an exciting and interesting speaker or topic, please get in touch with us!
+Our primary communication channel is the owasp-gothenburg mailinglist, all meetings, events and other news are announced on the mailing list.
 
