@@ -10,7 +10,7 @@ region: Europe
 ---
 ![OWASP Gothenburg Chapter Logo](assets/images/500px-Owaspgbg_brand_logo_web.png)
 
-#About OWASP Gothenburg
+## About OWASP Gothenburg
 
 The vision for OWASP Gothenburg is to increase interest in and spread knowledge of how to architect and build secure software systems. It is to provide a balanced mix of the latest word in academic security research (cutting edge), established security practices and design principles for direct application (breadth and maturity). The most important elements in the construction of secure applications are design- and development methodologies, OWASP Gothenburg will hence strive to increase the security-mindedness of application developers.
 
