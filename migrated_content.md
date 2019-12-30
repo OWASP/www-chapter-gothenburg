@@ -188,34 +188,34 @@ Just copy it to the plugins folder
   - 2015-12-08 Michele Orrù - Dark FairyTales from a Phisherman (Vol.
     III) [video](https://www.youtube.com/watch?v=8DJKp7nKAes)
   - 2015-10-20 Mattias Jidhage - [Going dark
-    (grey)](Media:GoingGrey.pdf "wikilink")
+    (grey)](/www-pdf-archive/GoingGrey.pdf )
     [video](https://youtu.be/ercZOphipRw)
   - 2015-10-20 Jonas Magazinius - Mac Hack Backup Attack
     [video](https://youtu.be/3KQMFR7Dv3M)
   - 2015-10-20 Mikael Falkvidd - [Livepatching the linux
-    kernel](Media:Linux_kernel_live_patching.pdf "wikilink")
+    kernel](/www-pdf-archive/Linux_kernel_live_patching.pdf )
     [video](https://youtu.be/zy0R_S2raSM)
   - 2015-10-20 Fredrik Strömberg - [An introduction to
-    QubesOS](Media:Qubes.pdf "wikilink")
+    QubesOS](/www-pdf-archive/Qubes.pdf )
     [video](https://youtu.be/oDR6VyzimPQ)
   - 2015-10-20 Anders Rosdahl - [Hands on with wifi
-    security](Media:Hands-on_with_wifi_security_publish.pdf "wikilink")
+    security](/www-pdf-archive/Hands-on_with_wifi_security_publish.pdf )
     [video](https://www.youtube.com/watch?v=FkCb6VORZj4)
   - 2015-10-20 Viktor Hedberg - OWASP Security Shepherd
     [video](https://youtu.be/iKPFCO1qqb8)
   - 2015-10-20 Mikael Wecksten - [Introduction to Android app security
-    review](Media:Android_sec.pdf "wikilink")
+    review](/www-pdf-archive/Android_sec.pdf )
     [video](https://youtu.be/Vua9Z_8aESA)
   - 2015-10-20 Peter Gullberg - [TrustZone, TEE and mobile
-    security](Media:OWASP_Security_Tapas_-_TrustZone,_TEE_and_Mobile_Security_final.pdf "wikilink")
+    security](/www-pdf-archive/OWASP_Security_Tapas_-_TrustZone,_TEE_and_Mobile_Security_final.pdf )
     [video](https://youtu.be/NSBSgpD_9kw)
   - 2015-04-16 Adde Lindh: [Defender
-    Economics](Media:DefenderEconomics.pdf "wikilink")
+    Economics](/www-pdf-archive/DefenderEconomics.pdf )
   - 2015-04-16 Michael Boman: [From Malware Analysis to Indications of
-    Compromise](Media:_From_Malware_Analysis_to_Indications_of_Compromise.pdf "wikilink")
+    Compromise](/www-pdf-archive/_From_Malware_Analysis_to_Indications_of_Compromise.pdf )
   - 2015-03-19 Georg Koppen and Philipp Winter: [Surfing safely over the
     Tor anonymity
-    network](Media:Winter_Koppen_Tor_OWASP_20150319.pdf "wikilink")
+    network](/www-pdf-archive/Winter_Koppen_Tor_OWASP_20150319.pdf )
     [Video: Relays](https://www.youtube.com/watch?v=bmmAFiqOgks) [Video:
     TorBrowser](https://www.youtube.com/watch?v=s7vb_mjJn2M) [Video:
     Questions and Answers](https://www.youtube.com/watch?v=UhWhlm0SB-U)
@@ -357,7 +357,7 @@ over at <http://blog.malwareresearch.institute>.
 **2015-03-20 - Philipp and Georg's slides available**
 
 Tor presentation slides: [Surfing safely over the Tor anonymity
-network](Media:Winter_Koppen_Tor_OWASP_20150319.pdf "wikilink")
+network](Media:Winter_Koppen_Tor_OWASP_20150319.pdf )
 
 '''2015-03-11 - Strengths and weaknesses of Tor, the white knight of
 internet anonymity '''
@@ -414,21 +414,21 @@ Approx. 21:00 Event ends
 ## OWASP Gothenburg 2014
 
   - 2014-12-04 Jonas Magazinius
-    [Internetdagarna-Its.all.about.the.cookie](Media:Internetdagarna-Its.all.about.the.cookie.odp "wikilink")
+    [Internetdagarna-Its.all.about.the.cookie](Media:Internetdagarna-Its.all.about.the.cookie.odp )
     - [video](https://www.youtube.com/watch?v=C7kjwqUTh3A)
   - 2014-12-04 Johan Rydberg Möller [Modems, ISPs & the
-    media](Media:Modems,_ISPs_&_the_media.pptx "wikilink") -
+    media](Media:Modems,_ISPs_&_the_media.pptx ) -
     [video](https://www.youtube.com/watch?v=vrJ_U8HFJEc)
   - 2014-04-24 Dagfinn Övstrud [Privacy by Design @
-    Västtrafik](Media:OWASP_Dagfinn_final.pdf "wikilink")
+    Västtrafik](/www-pdf-archive/OWASP_Dagfinn_final.pdf )
   - 2014-04-24 Jan Wellergård [Privacy by
-    Design](Media:Privacy_by_Design_v5.pptx‎ "wikilink")
+    Design](Media:Privacy_by_Design_v5.pptx‎ )
   - 2014-02-18 Klas Lindfors [One time
-    passwords](Media:Klas_otp_OWASPgbg20140219.pdf‎ "wikilink") -
+    passwords](/www-pdf-archive/Klas_otp_OWASPgbg20140219.pdf‎ ) -
     [video](http://www.youtube.com/watch?v=ORXDPNyXM-4)
   - 2014-02-18 Per Thorsheim [(Almost) everything about passwords that
     OWASP won't teach
-    you](Media:\(Almost\)_everything_about_passwords_that_OWASP_OWASPGbg_20140218_Per_Thorsheim.pdf‎ "wikilink")
+    you](/www-pdf-archive/\(Almost\)_everything_about_passwords_that_OWASP_OWASPGbg_20140218_Per_Thorsheim.pdf‎ )
     - [video](http://www.youtube.com/watch?v=dc-bF2CU0Xo)
 
 **2014-11-13 - Hacking unleashed**
@@ -528,10 +528,10 @@ IDE.
 **2014-05-20 - Jans och Dagfinns slides tillgängliga**
 
 Jans slides: [Privacy by
-Design](Media:Privacy_by_Design_v5.pptx‎ "wikilink")
+Design](Media:Privacy_by_Design_v5.pptx‎ )
 
 Dagfinns slides: [Privacy by Design @
-Västtrafik](Media:OWASP_Dagfinn_final.pdf "wikilink")
+Västtrafik](/www-pdf-archive/OWASP_Dagfinn_final.pdf )
 
 **2014-04-03 - Privacy by design**
 
@@ -603,10 +603,10 @@ of melodic death metal \\m/ \!
 *' 2014-02-19 - Klas och Pers slides tillgängliga*'
 
 Klas slides: [One time
-passwords](Media:Klas_otp_OWASPgbg20140219.pdf‎ "wikilink")
+passwords](/www-pdf-archive/Klas_otp_OWASPgbg20140219.pdf‎ )
 
 Pers slides: [(Almost) everything about passwords that OWASP won't teach
-you](Media:\(Almost\)_everything_about_passwords_that_OWASP_OWASPGbg_20140218_Per_Thorsheim.pdf‎ "wikilink")
+you](/www-pdf-archive/\(Almost\)_everything_about_passwords_that_OWASP_OWASPGbg_20140218_Per_Thorsheim.pdf‎ )
 
 *' 2014-01-29 - Autentisering, hur svårt kan det va?*'
 
@@ -681,28 +681,28 @@ certified CISA, CISM and CISSP-ISSAP.
 ## OWASP Gothenburg 2013
 
   - 2013-11-30 Joachim Strömbergsson och Peter Magnusson [SSL für
-    alle](Media:OWASP_SSL_20131128_preso.pdf "wikilink") -
+    alle](/www-pdf-archive/OWASP_SSL_20131128_preso.pdf ) -
     [video1](http://www.youtube.com/watch?v=UR5S-OtHUYg)
     [video2](http://www.youtube.com/watch?v=7GJ0Z6EjDVQ)
   - 2013-10-24 Ulf Larson [OWASP topp tio 2013 with WebGoat and
-    ZAP](Media:OWASP_Topp_tio_Ulf_Larson_20131010.pdf‎ "wikilink")
+    ZAP](/www-pdf-archive/OWASP_Topp_tio_Ulf_Larson_20131010.pdf‎ )
   - 2013-10-24 Jonas Magazinus [Crossing origins by crossing
-    formats](Media:Crossing.Origins.by.Crossing.Formats-Jonas.Magazinius-OWASP-131010.pptx "wikilink")
+    formats](Media:Crossing.Origins.by.Crossing.Formats-Jonas.Magazinius-OWASP-131010.pptx )
   - 2013-04-29 Mario Heiderich [The innerHTML
     Apocalypse](http://www.slideshare.net/x00mario/the-innerhtml-apocalypse)
   - 2013-04-29 Mario Heiderich XSS from 1999 to 2013: The "Doctrine
     Classique" of Websecurity
   - 2013-01-31 Mattias Wecksten [IT-forensics and information
-    security](Media:Mattias_wecksten_OWASPGBG_20130228.pdf "wikilink")
+    security](/www-pdf-archive/Mattias_wecksten_OWASPGBG_20130228.pdf )
   - 2013-01-31 Rickard Bodfors [Don't touch that
-    system](Media:Rikard_bodforss_OWASPGBG_20130228.pdf "wikilink")
+    system](/www-pdf-archive/Rikard_bodforss_OWASPGBG_20130228.pdf )
   - 2013-01-31 Mårten Schionning [Incidents and
-    forensics](Media:Morten_schionning_OWASPGPG_20130228.odp "wikilink")
+    forensics](Media:Morten_schionning_OWASPGPG_20130228.odp )
 
 *' 2013-11-30 - Peters och Joachims SSL für alle slides tillgängliga*'
 
 Slides tillgängliga här: [SSL für
-alle](Media:OWASP_SSL_20131128_preso.pdf "wikilink")
+alle](/www-pdf-archive/OWASP_SSL_20131128_preso.pdf )
 
 *' 2013-11-03 - SSL för alla*'
 
@@ -769,10 +769,10 @@ at Omegapoint and specialize in application security.
 **2013-10-24 - Ulfs och Jonas slides från senaste träffen tillgängliga**
 
 Ulfs slides tillgängliga här: [OWASP topp tio 2013 with WebGoat and
-ZAP](Media:OWASP_Topp_tio_Ulf_Larson_20131010.pdf‎ "wikilink")
+ZAP](/www-pdf-archive/OWASP_Topp_tio_Ulf_Larson_20131010.pdf‎ )
 
 Jonas slides tillgängliga här: [Crossing origins by crossing
-formats](Media:Crossing.Origins.by.Crossing.Formats-Jonas.Magazinius-OWASP-131010.pptx "wikilink")
+formats](Media:Crossing.Origins.by.Crossing.Formats-Jonas.Magazinius-OWASP-131010.pptx )
 
 **2013-09-12 - Så där ja, nu kör vi igång år tre**
 
@@ -940,13 +940,13 @@ tillgängliga**
 Nu finns slides från vårt Februarievent tillgängliga här
 
 Mattias slides: [IT-forensics and information
-security](Media:Mattias_wecksten_OWASPGBG_20130228.pdf "wikilink")
+security](/www-pdf-archive/Mattias_wecksten_OWASPGBG_20130228.pdf )
 
 Rikards slides: [Don't touch that
-system](Media:Rikard_bodforss_OWASPGBG_20130228.pdf "wikilink")
+system](/www-pdf-archive/Rikard_bodforss_OWASPGBG_20130228.pdf )
 
 Mortens slides: [Incidents and
-forensics](Media:Morten_schionning_OWASPGPG_20130228.odp "wikilink")
+forensics](Media:Morten_schionning_OWASPGPG_20130228.odp )
 
 **2013-01-31 - OWASP Göteborg - IT-forensik, 28e februari**
 
@@ -1054,29 +1054,29 @@ awareness through popular science in modern media.
 ## OWASP Gothenburg 2012
 
   - 2012-11-22 Fredrik Sjöström
-    [Malware](Media:Fredrik_Sjostrom_Malware_OWASPGBG_20121122.pdf‎ "wikilink")
+    [Malware](/www-pdf-archive/Fredrik_Sjostrom_Malware_OWASPGBG_20121122.pdf‎ )
     [video](http://www.youtube.com/watch?v=dgwpjQXguso)
   - 2012-11-22 Robin Blokker
-    [Penetrationstestning](Media:Robin_Blocker_Penetrationtesting_OWASPGBG_20121122.RobinBlokker.pdf "wikilink")
+    [Penetrationstestning](/www-pdf-archive/Robin_Blocker_Penetrationtesting_OWASPGBG_20121122.RobinBlokker.pdf )
     [video](http://www.youtube.com/watch?v=lilDGi3AgzE)
   - 2012-11-22 Michael Boman [Malware analysis as a
-    hobby](Media:Michael_Boman_Mart_OWASPGBG_20121122.pdf‎ "wikilink")
+    hobby](/www-pdf-archive/Michael_Boman_Mart_OWASPGBG_20121122.pdf‎ )
     [video](http://www.youtube.com/watch?v=Dth_mJEsGTo)
   - 2012-10-08 Mathias Jidhage och Rikard Bordfors [OWASP Hardware
     Hacking Part 1 -
-    GoodFet](Media:OWASP-Hardware-Hacking-Part1.pptx‎ "wikilink")
+    GoodFet](Media:OWASP-Hardware-Hacking-Part1.pptx‎ )
     [video](http://www.youtube.com/watch?v=sPx0JWOIcus)
   - 2012-07-04 Mikko Saario [3 från 1 - hybrid environments and
-    agile](Media:Mikko_Saario_3_from_1_hybrid_agile_OWASP_Gbg_20120906.pdf‎ "wikilink")
+    agile](/www-pdf-archive/Mikko_Saario_3_from_1_hybrid_agile_OWASP_Gbg_20120906.pdf‎ )
   - 2012-07-04 Ulf Larson [Securing Mobile
-    Applications](Media:Securing_mobile_applications_OWASP_Gbg_20120906.pdf "wikilink")
+    Applications](/www-pdf-archive/Securing_mobile_applications_OWASP_Gbg_20120906.pdf )
   - 2012-04-26 Erlend Oftedal [Cross domain communication and browser
     security
     features](http://eoftedal.github.com/CrossDomainAndBrowserSecurity/#1)
   - 2012-04-26 Combitech [Security assessment of the E-valg
-    system](Media:OWASP_Evalg_2012-04-26.ppt‎ "wikilink")
+    system](Media:OWASP_Evalg_2012-04-26.ppt‎ )
   - 2012-03-03 Jim @Manicode Manico [JManico - Developer Top
-    Ten](Media:Manico_Developer_Top_Ten_Core_Controls_v4.1.ppt.zip "wikilink")
+    Ten](Media:Manico_Developer_Top_Ten_Core_Controls_v4.1.ppt.zip )
 
 **2012-10-29 - OWASP Göteborg - Pentest och Malware, 22e november**
 
@@ -1133,7 +1133,7 @@ rätt från början. Michael driver webbsidan
 kunskaper och erfarenheter när han kan.
 
 Michaels slides: [Malware analysis as a
-hobby](Media:Michael_Boman_Mart_OWASPGBG_20121122.pdf‎ "wikilink")
+hobby](/www-pdf-archive/Michael_Boman_Mart_OWASPGBG_20121122.pdf‎ )
 
 *Robin Blokker*
 
@@ -1153,7 +1153,7 @@ säkerhetsgemenskapen var han övar sig i psykologisk krigsföring och
 frisbeegolf.
 
 Robins slides:
-[Penetrationstestning](Media:Robin_Blocker_Penetrationtesting_OWASPGBG_20121122.RobinBlokker.pdf "wikilink")
+[Penetrationstestning](/www-pdf-archive/Robin_Blocker_Penetrationtesting_OWASPGBG_20121122.RobinBlokker.pdf )
 
 *Fredrik Sjöstrand*
 
@@ -1169,7 +1169,7 @@ detektering. De lediga stunder som inte tillbringas i en debugger
 tillägnas Premier League och Chelsea FC.
 
 Fredriks slides:
-[Malware](Media:Fredrik_Sjostrom_Malware_OWASPGBG_20121122.pdf‎ "wikilink")
+[Malware](/www-pdf-archive/Fredrik_Sjostrom_Malware_OWASPGBG_20121122.pdf‎ )
 
 **2012-10-08 - OWASP Göteborg - Introduction to Hardware Hacking part 1,
 25:e Oktober, 2012**
@@ -1177,7 +1177,7 @@ Fredriks slides:
 *Uppdatering 2012-10-29*
 
 Nu finns slides tillgängliga [OWASP Hardware Hacking Part
-1](Media:OWASP-Hardware-Hacking-Part1.pptx‎ "wikilink"). Dessutom finns
+1](Media:OWASP-Hardware-Hacking-Part1.pptx‎ ). Dessutom finns
 en video från spektaklet. Den hittar ni [här](http://t.co/9VsMeAGW).
 
 *Ursprungspost 2010-10-08*
@@ -1203,10 +1203,10 @@ tillgängliga**
 Nu finns slides från vårt september-event tillgängliga. Varsågoda\!
 
 Mikko Saario - [3 från 1 - hybrid environments and
-agile](Media:Mikko_Saario_3_from_1_hybrid_agile_OWASP_Gbg_20120906.pdf‎ "wikilink")
+agile](/www-pdf-archive/Mikko_Saario_3_from_1_hybrid_agile_OWASP_Gbg_20120906.pdf‎ )
 
 Ulf Larson - [Securing Mobile
-Applications](Media:Securing_mobile_applications_OWASP_Gbg_20120906.pdf "wikilink")
+Applications](/www-pdf-archive/Securing_mobile_applications_OWASP_Gbg_20120906.pdf )
 
 **2012-07-04 - Nästa event spikat till torsdag den 6e september - tema
 mobile security**
@@ -1281,13 +1281,13 @@ Erlend Oftedal - [Cross domain communication and browser security
 features](http://eoftedal.github.com/CrossDomainAndBrowserSecurity/#1)
 
 Combitech - [Security assessment of the E-valg
-system](Media:OWASP_Evalg_2012-04-26.ppt‎ "wikilink")
+system](Media:OWASP_Evalg_2012-04-26.ppt‎ )
 
 **2012-03-25 - Jim Manico's slides tillgängliga**
 
 Här kommer nu länken till Jim Manico's slides från föredraget den 22e.
 Håll till godo\! [JManico - Developer Top
-Ten](Media:Manico_Developer_Top_Ten_Core_Controls_v4.1.ppt.zip "wikilink")
+Ten](Media:Manico_Developer_Top_Ten_Core_Controls_v4.1.ppt.zip )
 
 **2012-03-03 - Nästa officiella event spikat till torsdag den 26e
 april**
@@ -1495,14 +1495,14 @@ Stay tuned\!
 ## OWASP Gothenburg 2011
 
   - 2011-11-03 Martin Holst Swende [OWASP
-    Hatkit](Media:Martin_Swende-Hatkit_Owasp-Gothenburg.pdf "wikilink")
+    Hatkit](Media:Martin_Swende-Hatkit_Owasp-Gothenburg.pdf )
   - 2011-11-03 Stefano Di Paola
-    [DOMinator](Media:AnalyzingDOMXssWithDOMinator.pdf "wikilink")
+    [DOMinator](/www-pdf-archive/AnalyzingDOMXssWithDOMinator.pdf )
   - 2011-08-25 Per Josefsson [OWASP Top
-    Ten](Media:Per_Josefsson_OWASP_Topp_Tio_20110825.ppt "wikilink")
+    Ten](Media:Per_Josefsson_OWASP_Topp_Tio_20110825.ppt )
   - 2011-08-25 Jonas Magazinius [A Language-based Perspective on Web
     Application
-    Security](Media:Jonas_Magazinius_OWASP_Appsec_Proglang_20110825.pptx "wikilink")
+    Security](Media:Jonas_Magazinius_OWASP_Appsec_Proglang_20110825.pptx )
 
 **2011-11-04 - Ett par små uppdateringar**
 
@@ -1574,7 +1574,7 @@ customizable framework which can be used to analyse modern complex web
 applications. The tools became Owasp projects in 2011.
 
 Martin's slides: [OWASP
-Hatkit](Media:Martin_Swende-Hatkit_Owasp-Gothenburg.pdf "wikilink")
+Hatkit](/www-pdf-archive/Martin_Swende-Hatkit_Owasp-Gothenburg.pdf )
 
 *Stefano Di Paola*
 
@@ -1607,7 +1607,7 @@ application that can ease the pain of finding DOM based Cross Site
 Scripting issues by using runtime tainting analysis at JavaScript level.
 
 Stefano's slides:
-[DOMinator](Media:AnalyzingDOMXssWithDOMinator.pdf "wikilink")
+[DOMinator](/www-pdf-archive/AnalyzingDOMXssWithDOMinator.pdf )
 
 **2011-10-14 - OWASP Göteborg den 3e november - uppdatering**
 
@@ -1702,7 +1702,7 @@ application security. The latest version is from 2010 and the next
 version is expected during 2013.
 
 Pers slides: [OWASP Top
-Ten](Media:Per_Josefsson_OWASP_Topp_Tio_20110825.ppt "wikilink")
+Ten](Media:Per_Josefsson_OWASP_Topp_Tio_20110825.ppt )
 
 *18:45 - 19:00, Short break*
 
@@ -1718,7 +1718,7 @@ language security and how a fine granular policy can replace SOP by
 allowing more interaction without compromising security.
 
 Jonas slides: [A Language-based Perspective on Web Application
-Security](Media:Jonas_Magazinius_OWASP_Appsec_Proglang_20110825.pptx "wikilink")
+Security](Media:Jonas_Magazinius_OWASP_Appsec_Proglang_20110825.pptx )
 
 *19:30 - 20:30, Beer*
 
@@ -1738,7 +1738,7 @@ Sweden-mailinglistan](http://lists.owasp.org/mailman/listinfo/owasp-sweden)).
 Är du intresserad av att hjälpa till eller har förslag på spännande och
 intressanta föredrag och/eller talare är du välkommen att kontakta oss.
 
-[Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Sweden](Category:Sweden "wikilink")
-[Category:Gothenburg](Category:Gothenburg "wikilink")
-[Category:OWASP_Video](Category:OWASP_Video "wikilink")
+[Category:OWASP_Chapter](Category:OWASP_Chapter )
+[Category:Sweden](Category:Sweden )
+[Category:Gothenburg](Category:Gothenburg )
+[Category:OWASP_Video](Category:OWASP_Video )
