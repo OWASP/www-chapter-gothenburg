@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Jonas Magazinius](mailto:)
-* [Mattias Jidhage](mailto:mattias.jidhage@owasp.org)
+* [Jonas Magazinius](mailto:jonas.magazinius@owasp.org)
+
