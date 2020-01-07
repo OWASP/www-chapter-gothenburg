@@ -2,12 +2,16 @@
 
 layout: col-sidebar
 title: OWASP Gothenburg
+
 tags: gothenburg
 level: 4
 
 region: Europe
 
+auto-migrated: 1
+
 ---
+
 ![OWASP Gothenburg Chapter Logo](assets/images/500px-Owaspgbg_brand_logo_web.png)
 
 ## About OWASP Gothenburg
@@ -20,4 +24,3 @@ Everyone is free to participate in, and attend any of our meetings!
 
 If you are interested in helping out or if you have a suggestion on e.g. an exciting and interesting speaker or topic, please get in touch with us!
 Our primary communication channel is the owasp-gothenburg mailinglist, all meetings, events and other news are announced on the mailing list.
-
