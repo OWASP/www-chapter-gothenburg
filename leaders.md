@@ -4,9 +4,9 @@
 * [Daniel Fallstrand](mailto:daniel.fallstrand@owasp.org)
 
 ### Board Members
-* [Mikael Falkvidd]
-* [Anders Rosdahl
-* [Johanna Abrahamsson]
-* [Viktor Hedberg]
-* [Cina Hellman]
-* [Martin Kastebo]
+* Mikael Falkvidd
+* Anders Rosdah
+* Johanna Abrahamsson
+* Viktor Hedberg
+* Cina Hellman
+* Martin Kastebo
