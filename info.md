@@ -1,4 +1,6 @@
 ### Chapter information
+* [OWASP Policies and Procedures](https://owasp.org/www-policy/)
+* [NEW Chapter Policty](https://owasp.org/www-policy/operational/chapters)
 * [Mailinglist](https://groups.google.com/a/owasp.org/forum/#!forum/gothenburg-chapter/) 
 
 ### Social Links
