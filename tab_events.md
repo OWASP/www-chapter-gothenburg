@@ -8,13 +8,17 @@ order: 2
 tags: gothenburg
 
 ---
+OWASP Gothenburg 2020
+---------------------
+*   2020-12-17 OWASP <3 AUTOSEC online lunch seminar
 
 OWASP Gothenburg 2019
 ---------------------
-*   2019-01-07: Autosec.se + OWASP vol. II Tomas Olovsson and Jonas Magazinius: focused on automotive security.
+*   2019-09-26 Steve Gibson - SQRL - Secure Quick Reliable Login [video](https://youtu.be/Y6J1Yt8YYj0)
 *   2019-03-14 Anne Marie Eklund Löwinder - Securing parts of the Internet - DNS extravaganza! [video](https://youtu.be/uNm4wjx_uN8)
 *   2019-03-14 Per Thorsheim - DNS Security - DNS extravaganza! [video](https://www.youtube.com/watch?v=5VyYkfR3Fp8)
 *   2019-03-14 Per Thorsheim - Password Security - DNS extravaganza! [video](https://youtu.be/nK9hc18MFBc)
+*   2019-01-07: Autosec.se + OWASP vol. II Tomas Olovsson and Jonas Magazinius: focused on automotive security.
 
 OWASP Gothenburg 2018
 ---------------------
