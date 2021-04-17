@@ -8,6 +8,7 @@ order: 2
 tags: gothenburg
 
 ---
+
 OWASP Gothenburg 2020
 ---------------------
 *   2020-12-17 OWASP <3 AUTOSEC online lunch seminar
