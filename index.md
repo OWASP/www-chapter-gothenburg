@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Gothenburg
 tags: gothenburg
 level: 0
+meetup-group: owasp-gothenburg-meetup-group
 
 region: Europe
 
@@ -22,3 +23,5 @@ Everyone is free to participate in, and attend any of our meetings!
 
 If you are interested in helping out or if you have a suggestion on e.g. an exciting and interesting speaker or topic, please get in touch with us!
 Our primary communication channel is the owasp-gothenburg mailinglist, all meetings, events and other news are announced on the mailing list.
+
+{% include chapter_events.html group=page.meetup-group %}
