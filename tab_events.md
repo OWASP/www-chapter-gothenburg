@@ -9,12 +9,31 @@ tags: gothenburg
 
 ---
 
+Meetups
+-------
+
+OWASP GBG currently organizes most future meetups at: https://www.meetup.com/owasp-gothenburg-meetup-group/
+
+OWASP Gothenburg 2021
+---------------------
+*   2021-12-16 Log4Shell special with Jonas Lejon / Fredrik Alexandersson / Peter Magnusson
+*   2021-12-09 Secure Coding Tournament
+*   2021-12-02 Security Pub (SäkPub)
+*   2021-11-11 CloudnativeGbg Cloud Security Meetup collaboration
+*   2021-11-11 Your Ingress Our Ingress - Philip Laine [video](https://www.youtube.com/watch?v=iIRRj69vicY)
+*   2021-11-11 OpenId Connect - Simon Gottschlag [video](https://www.youtube.com/watch?v=aWNijvRkK0c)
+*   2021-11-11 Cloud Whisperer - Jesper Larsson [video](https://www.youtube.com/watch?v=oNlpNpb8n48)
+
 OWASP Gothenburg 2020
 ---------------------
 *   2020-12-17 OWASP <3 AUTOSEC online lunch seminar
+*   2020-12-17 Tomas Olovsson - Recent events in automotive security
+*   2020-12-17 Mateen Malik - Fault and Attack injection based Verification of Automated systems with respect to safety and Cybersecurity
 
 OWASP Gothenburg 2019
 ---------------------
+*   2019-12-17 AutoSec - Efficiency and Quality Assurance in Threat Analysis, Katja Tuma
+*   2019-12-17 AutoSec - Bringing automotive security and safety closer together, Thomas Rosenstatter
 *   2019-09-26 Steve Gibson - SQRL - Secure Quick Reliable Login [video](https://youtu.be/Y6J1Yt8YYj0)
 *   2019-03-14 Anne Marie Eklund Löwinder - Securing parts of the Internet - DNS extravaganza! [video](https://youtu.be/uNm4wjx_uN8)
 *   2019-03-14 Per Thorsheim - DNS Security - DNS extravaganza! [video](https://www.youtube.com/watch?v=5VyYkfR3Fp8)
