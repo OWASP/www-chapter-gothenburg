@@ -13,8 +13,6 @@
 
 ### Board Members
 * Mikael Falkvidd
-* Anders Rosdah
-* Johanna Abrahamsson
-* Viktor Hedberg
 * Cina Hellman
-* Martin Kastebo
+* Ana Magazinius
+* Jeanette Rudolfsson
