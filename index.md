@@ -24,4 +24,19 @@ Everyone is free to participate in, and attend any of our meetings!
 If you are interested in helping out or if you have a suggestion on e.g. an exciting and interesting speaker or topic, please get in touch with us!
 Our primary communication channel is the owasp-gothenburg mailinglist, all meetings, events and other news are announced on the mailing list.
 
+## Upcoming events 
+
+### 2022-12-08 OWASP Gothenburg SäkPub
+
+OWASP Gothenburg Chapter invites you to an evening of security and entertainment!
+
+Registration: https://www.eventbrite.com/e/owasp-sakpub-tickets-47582925812 
+
+### 2022-12-12 OWASP Gothenburg Automotive Security
+
+Finally, we are BACK, in person! The theme for this event is as obvious as the CAN network is in a modern car - Automotive security!
+
+Registration: https://www.eventbrite.se/e/owasp-automotive-security-tickets-478563796197
+
+
 {% include chapter_events.html group=page.meetup-group %}
