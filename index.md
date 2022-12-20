@@ -26,17 +26,8 @@ Our primary communication channel is the owasp-gothenburg mailinglist, all meeti
 
 ## Upcoming events 
 
-### 2022-12-08 OWASP Gothenburg SäkPub
+### 2022-12-29 OWASP Gothenburg Holiday Hack
 
-OWASP Gothenburg Chapter invites you to an evening of security and entertainment!
+OWASP Gothenburg is hosting a holiday hack event to help people relax and unwind during the stressful holiday season.
 
-Registration: https://www.eventbrite.com/e/owasp-sakpub-tickets-47582925812 
-
-### 2022-12-12 OWASP Gothenburg Automotive Security
-
-Finally, we are BACK, in person! The theme for this event is as obvious as the CAN network is in a modern car - Automotive security!
-
-Registration: https://www.eventbrite.se/e/owasp-automotive-security-tickets-478563796197
-
-
-{% include chapter_events.html group=page.meetup-group %}
+Registration: https://www.eventbrite.com/e/owasp-gbg-holiday-hack-tickets-492461745337
