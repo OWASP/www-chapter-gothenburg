@@ -31,3 +31,8 @@ Our primary communication channel is the owasp-gothenburg mailinglist, all meeti
 OWASP Gothenburg is hosting a holiday hack event to help people relax and unwind during the stressful holiday season.
 
 Registration: https://www.eventbrite.com/e/owasp-gbg-holiday-hack-tickets-492461745337
+
+
+
+{% include chapter_events.html group=page.meetup-group %}
+
