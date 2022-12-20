@@ -14,6 +14,11 @@ Meetups
 
 OWASP GBG currently organizes most future meetups at: https://www.meetup.com/owasp-gothenburg-meetup-group/
 
+OWASP Gothenburg 2022
+---------------------
+* 2022-12-12 OWASP Gothenburg Automotive Security
+* 2022-12-08 OWASP Gothenburg SäkPub
+
 OWASP Gothenburg 2021
 ---------------------
 *   2021-12-16 Log4Shell special with Jonas Lejon / Fredrik Alexandersson / Peter Magnusson
