@@ -26,12 +26,11 @@ Our primary communication channel is the owasp-gothenburg mailinglist, all meeti
 
 ## Upcoming events 
 
-### 2022-12-29 OWASP Gothenburg Holiday Hack
+### Preliminary - September 13th - 15th SEC-T community event 
 
-OWASP Gothenburg is hosting a holiday hack event to help people relax and unwind during the stressful holiday season.
+"Känn ingen sorg för mig Göteborg."
 
-Registration: https://www.eventbrite.com/e/owasp-gbg-holiday-hack-tickets-492461745337
-
+Didn't get tickets to SEC-T? Neither did we. Let's get together and watch the SEC-T video feed! 
 
 
 {% include chapter_events.html group=page.meetup-group %}
