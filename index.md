@@ -5,6 +5,7 @@ title: OWASP Gothenburg
 tags: gothenburg
 level: 0
 meetup-group: owasp-gothenburg-meetup-group
+country: Sweden
 
 region: Europe
 
