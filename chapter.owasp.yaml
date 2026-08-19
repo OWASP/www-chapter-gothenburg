@@ -1,0 +1,31 @@
+community:
+  - name: chapter-gothenburg
+    platform: slack
+    url: https://owasp.slack.com/archives/C04U5UL4X
+leaders:
+  - name: Dennis Dubrefjord
+    email: dennis.dubrefjord@owasp.org
+    github: Dubrefjord
+  - name: Jonas Magazinius
+    email: jonas.magazinius@owasp.org
+  - name: Johanna Abrahamsson
+    email: johanna.abrahamsson@owasp.org
+    github: johanna-a
+location:
+  country: Sweden
+  country_code: SE
+  region: Västra Götalands län
+  city: Gothenburg
+  latitude: 57.7072326
+  longitude: 11.9670171
+meetup_group: owasp-gothenburg-meetup-group
+name: OWASP Gothenburg
+repositories:
+  - name: www-chapter-gothenburg
+    url: https://github.com/OWASP/www-chapter-gothenburg
+    description: OWASP Foundation Web Repository
+tags:
+  - gothenburg
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-gothenburg
